@@ -24,7 +24,7 @@ from datetime import datetime, timedelta
 
 # --- VERSION & PROJECT INFO ---
 VERSION = "1.0"
-UPDATE_URL = "https://raw.githubusercontent.com/ZiadMo123/penkit/main/penkit.py"
+UPDATE_URL = "https://raw.githubusercontent.com/ZiadMo123/PenKit/main/penkit.py"
 UPDATE_CHECK_INTERVAL_DAYS = 7
 
 AUTHOR = "github:ZiadMo123"
