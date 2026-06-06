@@ -28,7 +28,8 @@ Unauthorized use against systems you do not own is illegal and unethical. The au
 
 ## Screenshots
 
-> _Add a GIF or screenshot of the banner, `list`, and `search` output here._
+<img width="923" height="385" alt="Screenshot 2026-06-06 224934" src="https://github.com/user-attachments/assets/cdac8706-33cf-45f3-82ae-36c276e47202" />
+
 
 ---
 
